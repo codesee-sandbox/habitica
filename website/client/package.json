@@ -61,5 +61,9 @@
     "vuedraggable": "^2.24.3",
     "vuejs-datepicker": "git://github.com/habitrpg/vuejs-datepicker.git#153d339e4dbebb73733658aeda1d5b7fcc55b0a0",
     "webpack": "^4.45.0"
+  },
+  "devDependencies": {
+    "@codesee/babel-plugin-instrument": "^0.6.2",
+    "@codesee/tracker": "^0.6.2"
   }
 }
